@@ -73,6 +73,14 @@ Now, anytime you make a change to your library in `src/` will live-reload your s
 
 Get Start with Storybook and develop your Component, [Reference docs](https://storybook.js.org/docs) 
 
+### Update Peers Dependencies
+
+After update `peerDependencies` in package.json or install new dependencies
+
+```bash
+npm run install-peers # reinstall peers after update
+```
+
 #### Commit
 
 Commit Method Recommandation
