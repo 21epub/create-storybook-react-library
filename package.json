@@ -1,6 +1,6 @@
 {
   "name": "@21epub/create-storybook-react-library",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "CLI for easily bootstrapping ts react libraries and run demo using storybook",
   "repository": "21epub/create-storybook-react-library",
   "author": "garry",
